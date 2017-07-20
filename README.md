@@ -40,32 +40,32 @@
                 <ul>
                 	<li><a href="#">1</a></li> 
 					<li><a href="#">1</a> </li>
-					<li><a href="#">教育处组织学生收看《2013年中小学… </a></li>
-					<li><a href="#">高一年级励志踏青活动花絮 </a></li>
-					<li><a href="#">我校组织高一年级励志踏青活动</a></li>
-					<li><a href="#">我校举行五四表彰大会暨成人仪式</a></li> 
-					<li><a href="#">河北中学4月份家长开放日公告</a></li> 
-					<li><a href="#">教育处组织学生收看《2013年中小学…</a></li>
+					<li><a href="#">1… </a></li>
+					<li><a href="#">1 </a></li>
+					<li><a href="#">1</a></li>
+					<li><a href="#">11</a></li> 
+					<li><a href="#">11</a></li> 
+					<li><a href="#">11…</a></li>
                 </ul>
             </div>
           	<div id="pic">
           		<h1></h1>
 	           	<div id="colee" >
 					<div id="colee1">
-					<p> <img src="images/pic.gif" width="200" height="150" />2010-2011年度先进单位</p>
-					<p> <img src="images/pic.gif" width="200" height="150" />2010-2011年度先进单位</p>
-					<p> <img src="images/pic.gif" width="200" height="150" />2010-2011年度先进单位</p>
-					<p> <img src="images/pic.gif" width="200" height="150" />2010-2011年度先进单位</p>
-					<p> <img src="images/pic.gif" width="200" height="150" />2010-2011年度先进单位</p>
-					<p> <img src="images/pic.gif" width="200" height="150" />2010-2011年度先进单位</p>
+					<p> <img src="images/pic.gif" width="200" height="150" />2010-2011年</p>
+					<p> <img src="images/pic.gif" width="200" height="150" />2010-2011年</p>
+					<p> <img src="images/pic.gif" width="200" height="150" />2010-2011年</p>
+					<p> <img src="images/pic.gif" width="200" height="150" />2010-2011年</p>
+					<p> <img src="images/pic.gif" width="200" height="150" />2010-2011年</p>
+					<p> <img src="images/pic.gif" width="200" height="150" />2010-2011年</p>
 				</div>
 				<div id="colee2"></div>
 			</div>
         </div>
     </div>
     <div id="right">
-        <h1>【家长学校1306期】大学主要的专业介绍</h1>
-        <h2>作者：教育处&nbsp;&nbsp;&nbsp;&nbsp;    图片来源：本站原创&nbsp;&nbsp;&nbsp;&nbsp;     点击数： 878&nbsp;&nbsp;&nbsp;&nbsp;     更新时间：2013-4-15</h2>
+        <h1>1</h1>
+        <h2>    更新时间：2017</h2>
             <p>2013年4月14日，教育处和高一年级组共同组织了高一年级及高二实验部学生“励志踏青”活动。</p>
     		<p>此次“励志踏青”活动，行程约30多华里，历时5个小时。同学们从学校大门南行，左转至燕赵大街直行经历史文化街出南城门过子龙大桥，在南桥头右转进入汊河湿地公园景区，然后向西自由活动到神农庄园停车场集合，沿107国道北行至镇远路右转，到承德街左转北行，经恒山西路返回学校。</p>
     		<p><img src="images/newspic.jpg" width="550px" height="380px"></p>
