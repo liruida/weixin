@@ -14,7 +14,7 @@
         	<div class="menu">
             	<ul>
                 	<li>网站首页</li>
-                    <li><a href="list.html">学校概况</a></li>
+                    <li><a href=https://liruida.github.io/classclass/>学校概况</a></li>
                     <li><a href="#">规章制度</a></li>
                     <li><a href="#">德育网</a></li>
                     <li><a href="#">教研网</a></li>
