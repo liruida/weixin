@@ -26,9 +26,9 @@
             <input name="search" type="text" class="search_text" /><input name="searchbut" type="button" class="search_but" value=" " />
             </div>
           </div>
-        <div id="left">
-        	<div id="hot">
-            	<h2></h2>
+        <div >
+        	
+            	
                 <ul>
                 	<li><a href="#">最新动态</a></li> 
 					<li><a href="#">1</a> </li>
@@ -57,15 +57,16 @@
         </div>
     </div>
     <div id="right">
-        <h1>主要的专业介绍</h1>
-        
+        <h1>介绍</h1>
+	<div>
+        
             <p>1</p>
     		<p>2</p>
     		<p><img src="images/newspic.jpg" width="550px" height="380px"></p>
     		<p>3</p>
     		<p>4</p>
         
- 
+ </div>
    
 </body>
 
