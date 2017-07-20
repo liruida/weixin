@@ -71,13 +71,10 @@
     		<p><img src="images/newspic.jpg" width="550px" height="380px"></p>
     		<p>同学们在此次活动中展现出学校和班级的良好精神风貌。一路上，校旗班旗迎风招展，队伍整齐，每个人脸上都洋溢着青春的笑容。沿途和景区，随处都可以看到同学们捡拾垃圾的身影，互帮互助的身影。在景区，同学们尽情地拥抱大自然，呼吸着自由的空气，和好朋友合影留念。此次活动使同学们在徒步远行中砥砺了意志品质，于集体踏青时领略了湖光水色。</p>
     		<p>此次活动经教育处和高一年级组缜密筹划、精心组织，全体班主任和随队老师的通力配合，在校医校车有利的后勤保障下，获得圆满成功！！</p>
-        <div class="next"><span class="font_next">上一篇：</span><a href="#">校园大扫除活动</a><span class="font_next">下一篇：</span><a href="#">老红军来我校诉说;革命历程</a></div>
+       
       </div>
  
-    </div>
-	<div id="foot">	  
- 	Copyright © 2008－2013 http://www.***.com All Rights Reserved   网站备案：冀ICP备00000000号
-	</div>
+   
 </body>
 
 </html>
