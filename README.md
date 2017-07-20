@@ -15,7 +15,7 @@
             	<ul>
                 	<li>网站首页</li>
                     <li><a href=https://liruida.github.io/classclass/>1</a></li>
-                    <li><a href="#">2</a></li>
+                    <li><a href="https://liruida.github.io/first/">2</a></li>
                     <li><a href="#">3</a></li>
                     <li><a href="#">4</a></li>
                     <li><a href="#">5</a></li>
