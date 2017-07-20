@@ -23,13 +23,13 @@
                     <li><a href="#">7</a></li>
                     <li><a href="#">8</a></li>
                     <li><a href="#">9</a></li>
-                     <li><a href="#">查询系统</a></li>
-                    <li><a href="#" class="specil">东校区</a></li>                    
+                     <li><a href="#">10</a></li>
+                    <li><a href="#" class="specil">11</a></li>                    
                 </ul>
             </div>           
         </div>
       <div id="dh">
-            	<h1><a href="index.html">河北中学首页</a> - <a href="list.html">学校概况</a> - <a href="#">校园文化</a></h1>
+            	<h1><a href="index.html">1</a> - <a href="list.html">1</a> - <a href="#">1</a></h1>
             	<div id="search">
             <input name="search" type="text" class="search_text" /><input name="searchbut" type="button" class="search_but" value=" " />
             </div>
@@ -38,8 +38,8 @@
         	<div id="hot">
             	<h2></h2>
                 <ul>
-                	<li><a href="#">我校举行五四表彰大会暨成人仪式</a></li> 
-					<li><a href="#">河北中学4月份家长开放日公告</a> </li>
+                	<li><a href="#">1</a></li> 
+					<li><a href="#">1</a> </li>
 					<li><a href="#">教育处组织学生收看《2013年中小学… </a></li>
 					<li><a href="#">高一年级励志踏青活动花絮 </a></li>
 					<li><a href="#">我校组织高一年级励志踏青活动</a></li>
