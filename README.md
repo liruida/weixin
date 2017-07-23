@@ -12,18 +12,18 @@
 <th colspan="2">主要作品</th>
 </tr>
 <tr>
-<td><p> <img src="https://github.com/liruida/cangku1/blob/master/3.jpg?raw=true" width="1400" height="400" /></p>
+<td><p> <img src="https://github.com/liruida/cangku1/blob/master/3.jpg?raw=true" width="800" height="400" /></p>
 </td>
 <td></td>
 </tr>
 
 <tr>
-<td><p> <img src="https://github.com/liruida/cangku1/blob/master/1.jpg?raw=true" width="1400" height="400" /></p>
+<td><p> <img src="https://github.com/liruida/cangku1/blob/master/1.jpg?raw=true" width="800" height="400" /></p>
 </td>
 <td></td>
 </tr>
 <tr>
-<td><p> <img src="https://github.com/liruida/cangku1/blob/master/4.jpg?raw=true" width="1400" height="400" />2</p>
+<td><p> <img src="https://github.com/liruida/cangku1/blob/master/4.jpg?raw=true" width="800" height="400" />2</p>
 </td>
 <td></td>
 </tr>
