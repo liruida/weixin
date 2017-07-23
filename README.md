@@ -14,18 +14,18 @@
 <th colspan="2">主要作品</th>
 </tr>
 <tr>
-<td><p> <img src="https://github.com/liruida/cangku1/blob/master/3.jpg?raw=true" width="600" height="900" /></p>
+<td><p> <img src="https://github.com/liruida/cangku1/blob/master/3.jpg?raw=true" width="600" height="600" /></p>
 </td>
 <td>鸡血玉作品</td>
 </tr>
 
 <tr>
-<td><p> <img src="https://github.com/liruida/cangku1/blob/master/1.jpg?raw=true" width="600" height="900" /></p>
+<td><p> <img src="https://github.com/liruida/cangku1/blob/master/1.jpg?raw=true" width="600" height="600" /></p>
 </td>
 <td>鸡血玉作品</td>
 </tr>
 <tr>
-<td><p> <img src="https://github.com/liruida/cangku1/blob/master/4.jpg?raw=true" width="600" height="900" />2</p>
+<td><p> <img src="https://github.com/liruida/cangku1/blob/master/4.jpg?raw=true" width="600" height="600" />2</p>
 </td>
 <td>鸡血玉作品</td>
 </tr>
