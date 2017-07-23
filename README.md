@@ -13,13 +13,20 @@
 </tr>
 <tr>
 <td><p> <img src="https://github.com/liruida/cangku1/blob/master/3.jpg?raw=true" width="200" height="300" /></p>
-</tr></td>
+</td>
+<td>111</td>
+</tr>
+
 <tr>
 <td><p> <img src="https://github.com/liruida/cangku1/blob/master/1.jpg?raw=true" width="200" height="300" /></p>
-<tr></td>
+</td>
+<td>111</td>
+</tr>
 <tr>
 <td><p> <img src="https://github.com/liruida/cangku1/blob/master/4.jpg?raw=true" width="200" height="300" />2</p>
-<tr></td>
+</td>
+<td>111</td>
+</tr>
 
 					
       
