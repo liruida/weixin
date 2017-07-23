@@ -3,7 +3,7 @@
 <meta charset="utf-8"/>
          
 	      	
-<img src="http://s15.sinaimg.cn/mw690/001qwjquty6DVjDc2yWee&690" width="1400px" height="240px">
+<img src="https://github.com/liruida/cangku1/blob/master/5.jpg?raw=true" width="1400px" height="400px">
 <div>
 <img src="images/logo.png">
 </div>
