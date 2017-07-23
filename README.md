@@ -52,9 +52,9 @@
           		<h1></h1>
 	           	<div id="colee" >
 					<div id="colee1">
-					<p> <img src="https://raw.githubusercontent.com/liruida/cangku1/8aa1f9bfbf47bf73aa4705edae4b32b093ef8e1e/2.jpg" width="200" height="150" />2010-2011年</p>
-					<p> <img src="https://github.com/liruida/cangku1/blob/master/1.jpg?raw=true" width="200" height="150" />2010-2011年</p>
-					<p> <img src="images/pic.gif" width="200" height="150" />2010-2011年</p>
+					<p> <img src="https://github.com/liruida/cangku1/blob/master/3.jpg?raw=true" width="200" height="300" />2010-2011年</p>
+					<p> <img src="https://github.com/liruida/cangku1/blob/master/1.jpg?raw=true" width="200" height="300" />2010-2011年</p>
+					<p> <img src="images/pic.gif" width="200" height="300" />2010-2011年</p>
 					<p> <img src="https://raw.githubusercontent.com/liruida/cangku1/8aa1f9bfbf47bf73aa4705edae4b32b093ef8e1e/2.jpg" width="200" height="150" />2010-2011年</p>
 					<p> <img src="images/pic.gif" width="200" height="150" />2010-2011年</p>
 					<p> <img src="images/pic.gif" width="200" height="150" />2010-2011年</p>
