@@ -1,5 +1,5 @@
-# weixin
-
+# 地图
+ 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -13,18 +13,12 @@
     	<div id="top">
         	<div class="menu">
             	<ul>
-                <li>网站首页</li>
-                    <li><a href="https://liruida.github.io/classclass/">1</a></li>
-                    <li><a href="https://liruida.github.io/first/">2</a></li>
-                    <li><a href="#">3</a></li>
-                    <li><a href="#">4</a></li>
-                    <li><a href="#">5</a></li>
-                    <li><a href="#">6</a></li>
-                    <li><a href="#">7</a></li>
-                    <li><a href="#">8</a></li>
-                    <li><a href="#">9</a></li>
-                     <li><a href="#">10</a></li>
-                    <li><a href="#" class="specil">11</a></li>                    
+                
+                    <li><a href="https://liruida.github.io/weixin/">主要作品 首页</a></li>
+                    <li><a href="https://liruida.github.io/first/">匠人精神</a></li>
+                    
+                    
+                    <li><a href="#" class="specil">文化修养</a></li>                    
                 </ul>
             </div>           
         </div>
