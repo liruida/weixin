@@ -14,7 +14,7 @@
 <th colspan="2">主要作品</th>
 </tr>
 <tr>
-<td><p> <img src="https://github.com/liruida/cangku1/blob/master/3.jpg?raw=true" width="600" height="400" /></p>
+<td><p> <img src="https://github.com/liruida/cangku1/blob/master/3.jpg?raw=true" width="600" height="300" /></p>
 </td>
 <td>鸡血玉作品</td>
 </tr>
