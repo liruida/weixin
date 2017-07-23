@@ -9,7 +9,7 @@
 <li>主要作品</li>
 <li><a href="https://liruida.github.io/spirit/">匠人精神</a></li>
 <li><a href="https://liruida.github.io/culture/">文化修养</a></li>
-<table>
+<table cellspacing="10" border="1"  cellpadding="15">
 <tr>
 <th colspan="2">主要作品</th>
 </tr>
