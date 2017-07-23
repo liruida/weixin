@@ -5,7 +5,7 @@
 	      	
 <img src="https://github.com/liruida/cangku1/blob/master/5.jpg?raw=true" width="1400px" height="300px">
 <li>主要作品</li>
-<li><a href="https://liruida.github.io/classclass/">匠人精神</a></li>
+<li><a href="https://liruida.github.io/spirit/">匠人精神</a></li>
 <li><a href="#">文化修养</a></li>
 <table>
 <tr>
