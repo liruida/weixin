@@ -25,7 +25,7 @@
 <td>鸡血玉作品</td>
 </tr>
 <tr>
-<td><p> <img src="https://github.com/liruida/cangku1/blob/master/4.jpg?raw=true" width="600" height="400" />2</p>
+<td><p> <img src="https://github.com/liruida/cangku1/blob/master/4.jpg?raw=true" width="600" height="300" />2</p>
 </td>
 <td>鸡血玉作品</td>
 </tr>
