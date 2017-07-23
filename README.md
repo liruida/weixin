@@ -20,7 +20,7 @@
 </tr>
 
 <tr>
-<td><p> <img src="https://github.com/liruida/cangku1/blob/master/1.jpg?raw=true" width="600" height="400" /></p>
+<td><p> <img src="https://github.com/liruida/cangku1/blob/master/1.jpg?raw=true" width="600" height="300" /></p>
 </td>
 <td>鸡血玉作品</td>
 </tr>
